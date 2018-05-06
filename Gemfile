@@ -10,7 +10,6 @@ gem 'bootstrap-will_paginate', '0.0.10'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'sass-rails', '~> 5.0'
-gem 'jquery-rails'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -53,7 +52,7 @@ gem 'sqlite3'
 end
 
 group :production do
-  gem 'pg', '~> 0.11'
+  gem 'pg', '~> 0.18'
   gem 'rails_12factor'
 end
 
