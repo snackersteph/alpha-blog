@@ -1,1 +1,3 @@
 This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer Course
+
+Checkout the deployed app here! https://still-springs-73344.herokuapp.com/
